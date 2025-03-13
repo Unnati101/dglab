@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+    background-image: linear-gradient(180deg, #2C2143 0%, #000000 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+}
